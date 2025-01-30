@@ -2,7 +2,7 @@ Algoritmo "Consumo de água"
 // Disciplina  : [Algoritmo e Programação]
 // Professor   : Pedro Brandão Neto 
 // Descrição   : Registro de funcionários
-// Autor(a)    : André Lopes, Andressa de Souza e Augusto
+// Autor(a)    : André, Andressa e Augusto
 // Data atual  : 15/01/2025
 Var
     consumo: vetor[1..10, 1..12] de real // armazena o consumo mensal

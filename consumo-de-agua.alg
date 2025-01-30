@@ -2,7 +2,7 @@ Algoritmo "Consumo de água aprimorado"
 // Disciplina  : [Algoritmo e Programação]
 // Professor   : Pedro Brandão Neto 
 // Descrição   : Registro de consumo de água
-// Autor(a)    : André da Silva Lopes e Andressa Souza
+// Autor(a)    : André, Andressa e Augusto
 // Data atual  : 28/01/2025
 // Versão      : 1.0
 
