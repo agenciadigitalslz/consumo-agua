@@ -2,16 +2,16 @@ Algoritmo "Consumo de água aprimorado"
 // Disciplina  : [Algoritmo e Programação]
 // Professor   : Pedro Brandão Neto 
 // Descrição   : Registro de consumo de água
-// Autor(a)    : André, Andressa e Augusto
+// Autor(a)    : André, Andressa, Augusto e Anielle
 // Data atual  : 28/01/2025
 // Versão      : 1.0
 
 Var
-   consumo: vetor[1..10, 1..12] de real // armazena o consumo mensal
-   media_anual: vetor[1..10] de real   // armazena o consumo médio anual de cada ano
-   variacao: vetor[1..9] de real       // armazena a variação percentual entre anos consecutivos
+   consumo: vetor[1..10, 1..12] de real // Armazenar o consumo mensal
+   media_anual: vetor[1..10] de real   // Armazenar o consumo médio anual de cada ano
+   variacao: vetor[1..9] de real       // Armazenar a variação percentual entre anos consecutivos
    l, c: inteiro                       // l é o índice do ano e c o índice dos meses
-   soma, soma_total, media_total: real // variáveis auxiliares para somar o consumo anual e total
+   soma, soma_total, media_total: real // Soma das variáveis auxiliares para o consumo anual e total
 inicio
    // Saudação inicial aprimorada
    escreval("==============================================")
